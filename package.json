@@ -1,0 +1,10 @@
+{
+  "name": "market-update-dat-proxy",
+  "version": "1.0.0",
+  "description": "Weekly DAT load-to-truck ratio with open CORS, for the Matson Market Update Builder",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
