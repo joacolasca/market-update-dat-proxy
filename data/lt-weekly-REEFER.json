@@ -1,0 +1,39 @@
+{
+  "equipment": "REEFER",
+  "weeks": [
+    {
+      "weekEnding": "2026-08-22",
+      "ratio": 20.57
+    },
+    {
+      "weekEnding": "2026-08-29",
+      "ratio": 22.88
+    },
+    {
+      "weekEnding": "2026-09-05",
+      "ratio": 21.51
+    },
+    {
+      "weekEnding": "2026-09-12",
+      "ratio": 18.29
+    },
+    {
+      "weekEnding": "2026-09-19",
+      "ratio": 18.1
+    },
+    {
+      "weekEnding": "2026-09-26",
+      "ratio": 17.62
+    },
+    {
+      "weekEnding": "2026-10-03",
+      "ratio": 20.78
+    },
+    {
+      "weekEnding": "2026-10-10",
+      "ratio": 15.97
+    }
+  ],
+  "source": "DAT Trendlines",
+  "updatedAt": "2026-10-14T14:59:52.373Z"
+}
