@@ -2,10 +2,6 @@
   "equipment": "FLATBED",
   "weeks": [
     {
-      "weekEnding": "2026-08-22",
-      "ratio": 34.65
-    },
-    {
       "weekEnding": "2026-08-29",
       "ratio": 40.48
     },
@@ -32,8 +28,12 @@
     {
       "weekEnding": "2026-10-10",
       "ratio": 35.49
+    },
+    {
+      "weekEnding": "2026-10-17",
+      "ratio": 36.54
     }
   ],
   "source": "DAT Trendlines",
-  "updatedAt": "2026-10-14T14:59:52.689Z"
+  "updatedAt": "2026-10-19T13:18:47.617Z"
 }
