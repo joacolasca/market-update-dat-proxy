@@ -2,10 +2,6 @@
   "equipment": "VAN",
   "weeks": [
     {
-      "weekEnding": "2026-09-12",
-      "ratio": 10.6
-    },
-    {
       "weekEnding": "2026-09-19",
       "ratio": 10.83
     },
@@ -32,8 +28,12 @@
     {
       "weekEnding": "2026-10-31",
       "ratio": 11.12
+    },
+    {
+      "weekEnding": "2026-11-07",
+      "ratio": 10.61
     }
   ],
   "source": "DAT Trendlines",
-  "updatedAt": "2026-11-02T15:56:49.544Z"
+  "updatedAt": "2026-11-09T22:23:09.267Z"
 }
