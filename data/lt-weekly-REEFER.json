@@ -2,10 +2,6 @@
   "equipment": "REEFER",
   "weeks": [
     {
-      "weekEnding": "2026-09-19",
-      "ratio": 18.1
-    },
-    {
       "weekEnding": "2026-09-26",
       "ratio": 17.62
     },
@@ -32,8 +28,12 @@
     {
       "weekEnding": "2026-11-07",
       "ratio": 18.38
+    },
+    {
+      "weekEnding": "2026-11-14",
+      "ratio": 17.54
     }
   ],
   "source": "DAT Trendlines",
-  "updatedAt": "2026-11-09T22:23:09.441Z"
+  "updatedAt": "2026-11-16T22:03:45.787Z"
 }
